@@ -3,9 +3,9 @@
 {
 	"name": "Python 3",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/python:2-3.14-trixie",
+	"image": "mcr.microsoft.com/devcontainers/python:2-3.14-trixie@sha256:43311767f101e1c2a7bd0ecacf2c866f5c42124fc2efe45bb384eb2995ecce4d",
 	"features": {
-		"ghcr.io/devcontainers-extra/features/claude-code:1": {}
+		"ghcr.io/devcontainers-extra/features/claude-code:1@sha256:cce04f0fb8313336f679c243f032338434d9386d4857c3d38e1253b1e3d62a00": {}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
